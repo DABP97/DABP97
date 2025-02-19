@@ -1,4 +1,8 @@
 ## Hi there 👋
+Hello World!
+My world is your world.
+how are you doing? 
+I will be making and learning how to make Video Games!
 
 <!--
 **DABP97/DABP97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
